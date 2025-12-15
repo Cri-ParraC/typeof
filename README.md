@@ -1,21 +1,21 @@
 # `typeof`
 
-Listas de valores devueltos por el operador `typeof`, sgún sus entradas.
+Listas de valores devueltos por el operador `typeof`, según sus entradas.
 
-Recordar que los posibles valores son:
+Los valores que retorna `typeof` son:
 
-- `undefined`
+- `'undefined'`
 
-- `boolean`
+- `'boolean'`
 
-- `number`
+- `'number'`
 
-- `bigint`
+- `'bigint'`
 
-- `string`
+- `'string'`
 
-- `symbol`
+- `'symbol'`
 
-- `function`
+- `'function'`
 
-- `object`
+- `'object'`
